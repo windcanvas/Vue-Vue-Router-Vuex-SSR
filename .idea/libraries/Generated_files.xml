@@ -7,6 +7,7 @@
         <item url="file://$PROJECT_DIR$/dist/practice/lifecycle/index.js" />
         <item url="file://$PROJECT_DIR$/dist/build/webpack.config.practice.js" />
         <item url="file://$PROJECT_DIR$/dist/practice/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/data-binding/index.js" />
         <item url="file://$PROJECT_DIR$/dist/dist/bundle.9258d3fa.js" />
         <item url="file://$PROJECT_DIR$/dist/dist/bundle.5a7c144b.js" />
         <item url="file://$PROJECT_DIR$/dist/build/webpack.config.client.js" />
@@ -27,6 +28,7 @@
       <root url="file://$PROJECT_DIR$/dist/build/vue-loader.config.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/bundle.eb57559e.js" />
       <root url="file://$PROJECT_DIR$/dist/practice/instance/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/data-binding/index.js" />
     </CLASSES>
     <SOURCES />
   </library>
