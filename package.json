@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/liqilong199126/Vue-Vue-Router-Vuex-SSR#readme",
   "dependencies": {
-    "vue": "^2.5.13"
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
@@ -33,9 +35,11 @@
     "babel-eslint": "^8.2.3",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-loader": "^7.1.2",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-transform-vue-jsx": "^3.5.0",
     "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-1": "^6.24.1",
     "cross-env": "^5.1.3",
     "css-loader": "^0.28.9",
     "eslint": "^4.19.1",

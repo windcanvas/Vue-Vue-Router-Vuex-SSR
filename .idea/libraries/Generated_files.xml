@@ -2,33 +2,61 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/client/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.base.js" />
-        <item url="file://$PROJECT_DIR$/dist/practice/lifecycle/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.practice.js" />
-        <item url="file://$PROJECT_DIR$/dist/practice/index.js" />
-        <item url="file://$PROJECT_DIR$/dist/dist/bundle.9258d3fa.js" />
-        <item url="file://$PROJECT_DIR$/dist/dist/bundle.5a7c144b.js" />
-        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.client.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/component/v-model.js" />
         <item url="file://$PROJECT_DIR$/dist/build/vue-loader.config.js" />
         <item url="file://$PROJECT_DIR$/dist/dist/bundle.eb57559e.js" />
         <item url="file://$PROJECT_DIR$/dist/practice/instance/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/directive/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/component/extend.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/store/store.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.base.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/store/getters/getters.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/bundle.9258d3fa.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/bundle.5a7c144b.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.client.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/store/mutations/mutations.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/component/define.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/lifecycle/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/build/webpack.config.practice.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/store/state/state.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/store/actions/actions.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/config/router.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/config/routes.js" />
+        <item url="file://$PROJECT_DIR$/dist/client/config/route.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/component/render.js" />
+        <item url="file://$PROJECT_DIR$/dist/practice/component/feartures.js" />
         <item url="file://$PROJECT_DIR$/dist/practice/computed/index.js" />
         <item url="file://$PROJECT_DIR$/dist/practice/data-binding/index.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/dist/client/index.js" />
-      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.base.js" />
-      <root url="file://$PROJECT_DIR$/dist/practice/lifecycle/index.js" />
-      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.practice.js" />
-      <root url="file://$PROJECT_DIR$/dist/practice/index.js" />
-      <root url="file://$PROJECT_DIR$/dist/dist/bundle.9258d3fa.js" />
-      <root url="file://$PROJECT_DIR$/dist/dist/bundle.5a7c144b.js" />
-      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.client.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/component/v-model.js" />
       <root url="file://$PROJECT_DIR$/dist/build/vue-loader.config.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/bundle.eb57559e.js" />
       <root url="file://$PROJECT_DIR$/dist/practice/instance/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/directive/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/component/extend.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/store/store.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.base.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/store/getters/getters.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/bundle.9258d3fa.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/bundle.5a7c144b.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.client.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/store/mutations/mutations.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/component/define.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/lifecycle/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/build/webpack.config.practice.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/store/state/state.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/store/actions/actions.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/config/router.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/config/routes.js" />
+      <root url="file://$PROJECT_DIR$/dist/client/config/route.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/component/render.js" />
+      <root url="file://$PROJECT_DIR$/dist/practice/component/feartures.js" />
       <root url="file://$PROJECT_DIR$/dist/practice/computed/index.js" />
       <root url="file://$PROJECT_DIR$/dist/practice/data-binding/index.js" />
     </CLASSES>
